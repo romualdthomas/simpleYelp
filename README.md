@@ -4,7 +4,7 @@
 
 **Yelp clone** displays a list of search results from the Yelp API and displays the results in a scrollable list. 
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Functionality 
 
@@ -22,13 +22,13 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='<iframe src="https://giphy.com/embed/hYPEcLIgQcMZYNMjcu" width="278" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hYPEcLIgQcMZYNMjcu">via GIPHY</a></p>' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Ran into an unnecessary amount of errors during implementation.
 
 ## License
 
